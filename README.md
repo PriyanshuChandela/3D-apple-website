@@ -1,16 +1,43 @@
-# React + Vite
+# 🍎 3D Apple Website (React + Three.js + Vite)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern 3D Apple iPhone 15 Pro showcase website built with **React**, **Vite**, **Tailwind CSS**, and **Three.js**.  
+This project replicates Apple's smooth product presentation — featuring dynamic highlights, smooth animations, and color-changing 3D models.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## React Compiler
+- ⚡ Fast and lightweight (built with Vite + React)
+- 🎨 Beautiful Apple-inspired design
+- 🎥 3D model animations using Three.js
+- 💡 Dynamic highlight videos and text transitions
+- 🖱️ Smooth scrolling navigation between sections
+- 📱 Fully responsive across all screen sizes
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+| Tool / Library | Purpose |
+|----------------|----------|
+| **React.js** | UI framework |
+| **Vite** | Fast build tool |
+| **Tailwind CSS** | Styling and responsive design |
+| **Three.js / React-Three-Fiber** | 3D model rendering |
+| **Sentry** | Error tracking |
+| **GitHub Pages / Vercel** | Deployment |
+
+---
+
+💡 Learnings
+
+Integrated 3D models into a React environment.
+
+Practiced responsive UI design using Tailwind.
+
+Understood modular project structure and reusable components.
+
+Implemented smooth section scrolling and interactive navigation.
+
+
+Author :- #Priyanshu Chandela
